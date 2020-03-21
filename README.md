@@ -1,7 +1,7 @@
 # Description
 
-Online Womens Shoe Store prototype implemented using React, Redux, React router, and React Material UI library. 
-
+Online Womens Shoe Store prototype implemented using React, Redux, React router,Firebase DB and React Material UI library. 
+Live on https://fashoe-df759.firebaseapp.com
  
 
 **Some features**:
